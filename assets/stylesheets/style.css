@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    /* outline: 1px dotted red; */
+}
+
+div.container form input[type=submit]{
+    float: right;
+}
+
+div.container img{
+    width: 12rem;
+    height: 150px;
+}
